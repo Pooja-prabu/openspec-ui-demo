@@ -12,14 +12,6 @@ Instead of writing code directly, the application structure is defined through s
 - Styling and responsive design configuration
 - Development and production build pipelines
 
-## Technologies Used
-
-- OpenSpec
-- React
-- Node.js
-- VS Code
-- AI coding assistants
-
 ## Purpose
 
 This project was built during an **AI Workshop on Secure Digital Futures**, where we explored modern AI-assisted development workflows including:
@@ -28,3 +20,12 @@ This project was built during an **AI Workshop on Secure Digital Futures**, wher
 - Spec-driven development
 - AI coding assistants
 - Automated UI generation
+
+## Technologies Used
+
+- OpenSpec
+- React
+- Node.js
+- VS Code
+- AI coding assistants
+
